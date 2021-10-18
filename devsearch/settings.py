@@ -40,8 +40,6 @@ INSTALLED_APPS = [
 
     'projects.apps.ProjectsConfig',
     'users.apps.UsersConfig',
-
-    'rest_framework',
     'corsheaders',
     'storages'
 
